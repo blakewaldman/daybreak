@@ -1,5 +1,7 @@
 # Daybreak Setup
 
+## NOTE: No longer active due to cancelling subscriptions to some API services.
+
 ## Prerequisites
 
 1. Install [Node.js](https://nodejs.org/en/)
