@@ -1,3 +1,7 @@
+# Abstract
+
+In the digital era, efficient task management is crucial for productivity and user experience. Daybreak, a smart to-do list web application, enhances productivity by offering a personalized dashboard, weather information, and task management capabilities. Developed using React.js, Django, and SQLite, it provides a user-friendly interface for account creation, login, task management, reminders, and a calendar view. The dashboard displays user tasks, progress reports, and local weather information, with various tabs for specific features. The application aims to offer a seamless task management experience, improving productivity and user experience, while continuously evolving to meet user needs and adapt to the web application landscape.
+
 # Daybreak Setup
 
 ## NOTE: No longer active due to cancelling subscriptions to some API services. To use, must have own `googleapis` key. For help on using own key, contact me at bwaldman01@gmail.com.
