@@ -16,7 +16,7 @@ To run the frontend host:
 
 1. Open CMD/Terminal
 2. Change directories in the CMD window to the "smart-todo" folder (CD command)\
-   (Eg: "cd C:\Users\Lucas\Downloads\SmartToDo\smart-todo")
+   (Eg: "cd C:\Users\Blake\Downloads\SmartToDo\smart-todo")
 3. Run `rm -rf node_modules`
 4. Run `npm install`
 5. Run `npm audit fix --force` if you run into any vulnerabilities errors
