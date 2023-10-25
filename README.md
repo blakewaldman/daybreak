@@ -1,6 +1,6 @@
 # Daybreak Setup
 
-## NOTE: No longer active due to cancelling subscriptions to some API services. To use, must have own `googleapis` key. For help on using own key, [Contact Me][bwaldman01@gmail.com].
+## NOTE: No longer active due to cancelling subscriptions to some API services. To use, must have own `googleapis` key. For help on using own key, [Contact Me](bwaldman01@gmail.com).
 
 ## Prerequisites
 
